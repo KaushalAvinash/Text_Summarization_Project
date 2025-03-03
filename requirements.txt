@@ -16,4 +16,5 @@ python-box
 ensure
 fastapi
 uvicorn
-Jinja2.
+Jinja2
+evaluate
